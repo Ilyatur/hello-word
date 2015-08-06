@@ -1,2 +1,2 @@
 # hello-word
-Frist repositry
+First repositry
